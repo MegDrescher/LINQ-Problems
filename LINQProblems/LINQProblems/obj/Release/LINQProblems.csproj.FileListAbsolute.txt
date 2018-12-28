@@ -1,0 +1,6 @@
+C:\Users\megry\source\repos\LINQProblems\LINQProblems\bin\Release\LINQProblems.exe.config
+C:\Users\megry\source\repos\LINQProblems\LINQProblems\bin\Release\LINQProblems.exe
+C:\Users\megry\source\repos\LINQProblems\LINQProblems\bin\Release\LINQProblems.pdb
+C:\Users\megry\source\repos\LINQProblems\LINQProblems\obj\Release\LINQProblems.csproj.CoreCompileInputs.cache
+C:\Users\megry\source\repos\LINQProblems\LINQProblems\obj\Release\LINQProblems.exe
+C:\Users\megry\source\repos\LINQProblems\LINQProblems\obj\Release\LINQProblems.pdb
